@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Warodom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwarodom)](https://github.com/wwarodom/github-readme-stats)
+[![Warodom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwarodom)](https://github.com/wwarodom/wwarodom)
 
 
 <!--
