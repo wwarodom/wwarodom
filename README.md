@@ -1,4 +1,4 @@
-### Hi there 👋
+### <> Hello 👋, I'm wwarodom </>
 
 [![Warodom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wwarodom)](https://github.com/wwarodom/wwarodom)
 
