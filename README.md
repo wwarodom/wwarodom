@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wwarodom&layout=compact)](https://github.com/wwarodom/wwarodom)
 
-[![Warodom's wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=wwarodom)](https://github.com/wwarodom/wwarodom)
+[![Warodom's wakatime stats](https://github-readme-stats-ruby-one.vercel.app/api/wakatime?username=wwarodom)](https://github.com/wwarodom/wwarodom)
 
 
 <!--
